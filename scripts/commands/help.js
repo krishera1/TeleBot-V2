@@ -9,7 +9,7 @@ module.exports = {
         role: 0,
         cooldowns: 5,
         version: '1.0.0',
-        author: 'Samir Thakuri',
+        author: 'Krish Era',
         description: 'Get a list of all available commands or detailed information about a specific command',
         usage: 'help [command|page]'
     },
