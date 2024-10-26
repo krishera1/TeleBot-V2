@@ -1,18 +1,18 @@
 {
-  "botToken": "Bot_Token",
-  "mongoURI": "MOngoDB_URI",
+  "botToken": "7502877676:AAEtgLvK4EZ3rImKxcpwj-hkN6GrytsHi9Q",
+  "mongoURI": "mongodb+srv://thanhlocle04:lpVbxqJJgJshVJJ0@cluster0.aq80r.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
   "adminId": [
     "5947023314",
-    "6550312881",
+    "5572301290",
     "5492951949"
   ],
-  "owner": "5947023314",
+  "owner": "5572301290",
   "onlyAdmin": false,
   "port": "3000",
-  "botName": "Yukai Bot",
-  "copyrightMark": "[ 🐉 | Yukai ]",
+  "botName": "Krish Bot",
+  "copyrightMark": "[ 🐉 | Krish ]",
   "greetNewMembers": {
     "enabled": true,
     "gifUrl": "https://telegra.ph/file/0f328de5109569feceff3.gif"
